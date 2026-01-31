@@ -60,3 +60,5 @@ I created the 4 models listed above in their standard form with no parameters an
 ![Models](images/model_comp.png)
 
 ### Results
+
+All models outperformed the baseline model with Logistic Regression being the best in regards to accuracy as well as precision. KNN had the best recall. The code for my get_F1 function was incorrect so I only go duplicate values. For all the stats, view ModelBuilding.ipynb.
